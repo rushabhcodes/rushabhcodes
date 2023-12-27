@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![Rushabh1134's Stats](https://github-readme-stats.vercel.app/api?username=Rushabh1134&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![Rushabh1134's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rushabh1134&theme=dracula&hide_border=true)
+![Rushabh1134's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushabh1134&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 <!--
 **Rushabh1134/Rushabh1134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Rushabh1134's Stats](https://github-readme-stats.vercel.app/api?username=Rushabh1134&theme=dracula&show_icons=true&hide_border=true&count_private=true)
