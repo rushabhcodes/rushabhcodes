@@ -20,8 +20,14 @@
   </a>
 </p>
 </div>
+<br>
 
-![Rushabh1134's Stats](https://github-readme-stats.vercel.app/api?username=Rushabh1134&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![Rushabh1134's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rushabh1134&theme=dracula&hide_border=true)
-![Rushabh1134's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushabh1134&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
+## 📈 GitHub Stats
+<div style="display: flex;">
+    <div style="margin-right: 10px;">
+        ![Rushabh1134's Stats](https://github-readme-stats.vercel.app/api?username=Rushabh1134&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+        ![Rushabh1134's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rushabh1134&theme=dracula&hide_border=true)
+        ![Rushabh1134's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushabh1134&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+    </div>
+</div>
+<br>
