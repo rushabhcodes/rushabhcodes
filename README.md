@@ -25,7 +25,7 @@
 ## 📈 GitHub Stats
 
 
-![Rushabh1134's Stats](https://github-readme-stats.vercel.app/api?username=Rushabh1134&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![Rushabh1134's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rushabh1134&theme=dracula&hide_border=true)
-![Rushabh1134's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushabh1134&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![Rushabh1134's Stats](https://github-readme-stats.vercel.app/api?username=rushabhcodes&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![Rushabh1134's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rushabhcodes&theme=dracula&hide_border=true)
+![Rushabh1134's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhcodes&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 <br>
