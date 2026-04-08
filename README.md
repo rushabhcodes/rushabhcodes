@@ -29,6 +29,7 @@
 ![Rushabh1134's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rushabhcodes&theme=dracula&hide_border=true)
 ![Rushabh1134's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhcodes&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-<br>
-[![An image of @rushabhcodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rushabhcodes)](https://holopin.io/@rushabhcodes)
-<br>
+
+Look who's stalking?
+
+[![Rushabh Patil profile views](https://u8views.com/api/v1/github/profiles/97875843/views/day-week-month-total-count.svg)](https://u8views.com/github/rushabhcodes)
