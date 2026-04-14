@@ -31,6 +31,10 @@
 
 <a href="https://gitroll.io/profile/umDPpRuwjJMTkQtro4xq3cge3O4q1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/umDPpRuwjJMTkQtro4xq3cge3O4q1?theme=light" alt="GitRoll Profile Badge"/></a>
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/b381508c-35c1-49ec-8cec-306a5e1bafe5/thumbnail" >
+</p>
+
 Look who's stalking?
 
 [![Rushabh Patil profile views](https://u8views.com/api/v1/github/profiles/97875843/views/day-week-month-total-count.svg)](https://u8views.com/github/rushabhcodes)
